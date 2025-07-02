@@ -1,0 +1,9 @@
+"Feature","Mantel_r","P_value","P_value_adj"
+"avg_sylls_upper_freq_Hz",0.0368028823922534,0.005,0.008
+"avg_sylls_lower_freq_Hz",0.0151727226490865,0.153,0.153
+"max_sylls_freq_Hz",0.12765445836668,0.001,0.002
+"min_sylls_freq_Hz",0.0899900131538742,0.001,0.002
+"overall_sylls_freq_range_Hz",0.149228398548903,0.001,0.002
+"largest_sylls_freq_range_Hz",0.0719416174848383,0.001,0.002
+"smallest_sylls_freq_range_Hz",0.0200795678670079,0.088,0.100571428571429
+"avg_sylls_freq_range_Hz",0.0334980961953189,0.014,0.0186666666666667
