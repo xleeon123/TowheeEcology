@@ -31,7 +31,7 @@ o = meteo_ogimet(date = c(date, date),
 head(o)
 
 
-songdata <- read.csv("~/ALL_combined_metadata_OLDandNEW_9.19.24.csv") 
+songdata <- read.csv("~/ALL_combined_metadata_OLDandNEW.csv") 
 
 # Convert Date column to the "YYYY-MM-DD" format
 #songdata$Date <- as.Date(mdy(songdata$Date))
