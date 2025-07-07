@@ -1,3 +1,6 @@
+#Author: Ximena Leon
+#####################################################################################################
+
 library(ggplot2)
 library(rnaturalearth)
 library(rnaturalearthdata)
