@@ -1,0 +1,33 @@
+"Feature","ClimateZone","W_Statistic","P_Value","Adj_P"
+"avg_sylls_upper_freq_Hz","Cfb: Temperate Oceanic Climate",19437.5,0.0761361902758182,0.458867966258183
+"avg_sylls_upper_freq_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",431078.5,0.0544397349278611,0.435517879422889
+"avg_sylls_upper_freq_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",801786.5,0.454554680425999,0.661170444255999
+"avg_sylls_upper_freq_Hz","Cfa: Humid Subtropical Climate",405185,0.242431802648334,0.561158975396501
+"avg_sylls_lower_freq_Hz","Cfb: Temperate Oceanic Climate",19313,0.0860377436734094,0.458867966258183
+"avg_sylls_lower_freq_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",421608.5,0.245507051735969,0.561158975396501
+"avg_sylls_lower_freq_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",797509.5,0.332010829958904,0.590241475482497
+"avg_sylls_lower_freq_Hz","Cfa: Humid Subtropical Climate",423460.5,0.783722626045584,0.902284310229853
+"max_sylls_freq_Hz","Cfb: Temperate Oceanic Climate",18315.5,0.207287901813159,0.561158975396501
+"max_sylls_freq_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",420629,0.278984051233846,0.590241475482497
+"max_sylls_freq_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",800670.5,0.420300835305508,0.643058484451336
+"max_sylls_freq_Hz","Cfa: Humid Subtropical Climate",417330.5,0.833946955389015,0.92021733008443
+"min_sylls_freq_Hz","Cfb: Temperate Oceanic Climate",16228.5,0.758357639346202,0.902284310229853
+"min_sylls_freq_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",391351,0.202698708001169,0.561158975396501
+"min_sylls_freq_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",785998,0.116632082546211,0.533175234496967
+"min_sylls_freq_Hz","Cfa: Humid Subtropical Climate",460122,0.00151472167754975,0.0484710936815919
+"overall_sylls_freq_range_Hz","Cfb: Temperate Oceanic Climate",17811,0.302757121333544,0.590241475482497
+"overall_sylls_freq_range_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",425156,0.147930829902477,0.539002476067423
+"overall_sylls_freq_range_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",809587,0.731926808609894,0.902284310229853
+"overall_sylls_freq_range_Hz","Cfa: Humid Subtropical Climate",407488.5,0.323611405076186,0.590241475482497
+"largest_sylls_freq_range_Hz","Cfb: Temperate Oceanic Climate",15722.5,0.939177730423823,0.939177730423823
+"largest_sylls_freq_range_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",401775.5,0.663953536030391,0.902284310229853
+"largest_sylls_freq_range_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",821318,0.789498771451121,0.902284310229853
+"largest_sylls_freq_range_Hz","Cfa: Humid Subtropical Climate",415517.5,0.724197004934818,0.902284310229853
+"smallest_sylls_freq_range_Hz","Cfb: Temperate Oceanic Climate",15830.5,0.899946491683235,0.939177730423823
+"smallest_sylls_freq_range_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",431203,0.0530289579847243,0.435517879422889
+"smallest_sylls_freq_range_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",777287.5,0.0431413203331662,0.435517879422889
+"smallest_sylls_freq_range_Hz","Cfa: Humid Subtropical Climate",431709.5,0.35410149620722,0.59638146729637
+"avg_sylls_freq_range_Hz","Cfb: Temperate Oceanic Climate",17313,0.422007130421189,0.643058484451336
+"avg_sylls_freq_range_Hz","Dfb: Humid Continental Mild Summer, Wet All Year",422256,0.224965182846095,0.561158975396501
+"avg_sylls_freq_range_Hz","Dfa: Humid Continental Hot Summers with Year-round Precipitation",814003.5,0.909981113077409,0.939177730423823
+"avg_sylls_freq_range_Hz","Cfa: Humid Subtropical Climate",401830,0.151594446393963,0.539002476067423
